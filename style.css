@@ -1,0 +1,50 @@
+header {
+	background-color: rgb(53, 110, 53);
+}
+h3 {
+	padding-top: 15px;
+}
+.isHidden {
+	visibility: hidden;
+	opacity: 0;
+}
+.hidden {
+	display: none;
+}
+.body {
+	background-color: white;
+	color: black;
+}
+.darkBtn {
+	padding: 15px;
+}
+
+.darkMode {
+	background-color: rgb(32, 30, 30);
+	color: white;
+}
+
+.darkMode .table {
+	color: white;
+}
+.darkMode .list-group-item {
+	background-color: rgb(32, 30, 30);
+	color: white;
+	border-color: white;
+}
+
+.proximos {
+	padding: 15px;
+}
+.carrito_title {
+	padding: 30px, 15px, 20px, 0px;
+}
+.main_shop {
+	padding: 25px;
+}
+.total_shop {
+	padding-top: 20px;
+}
+.container_btn {
+	padding: 15px 15px 15px 0px;
+}
